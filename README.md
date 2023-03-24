@@ -6,7 +6,7 @@ This repository contains our annotations of epistemic narratives in automated fa
 
 **Citation**
 
-Please cite our paper as:
+If you find this useful, please cite our paper as:
 
 ```
 @inproceedings{schlichtkrull2023intended,
